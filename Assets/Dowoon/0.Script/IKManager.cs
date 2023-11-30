@@ -12,6 +12,7 @@ public class IKManager : MonoBehaviour
     public Robot_Joint m_end;
 
     // 목표점
+    [Header(" 로봇 팔은 타겟으로 지정된 게임오브젝트의 좌표를 따라감")]
     public GameObject m_target;
 
     public float m_rate = 5;
