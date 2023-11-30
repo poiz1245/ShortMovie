@@ -426,10 +426,10 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1.5
   limitMin:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 2
   limitMax:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: -3.5211158
   curveMap:
     m_OverrideState: 0
