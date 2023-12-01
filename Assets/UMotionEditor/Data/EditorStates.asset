@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GeneralStates:
     LoadedProjectGUID:
-      valueInternal: 0989918d11d883049aed9205ebe1a605
+      valueInternal: 29184ab7b279e4040a90703f09e0372b
     RecentlyOpenedProjectPath:
       valueInternal: Assets\Dowoon\4.Anim
     RecentlyOpenedProjectGUIDsList:
+    - valueInternal: 29184ab7b279e4040a90703f09e0372b
     - valueInternal: 0989918d11d883049aed9205ebe1a605
